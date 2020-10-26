@@ -1,4 +1,8 @@
 '''
+F0001a: Mi történik, ha lefuttatjuk ezt a programot?
+A program futtatása nélkül fogalmazd meg magadnak –
+aztán persze lefuttathatod, hogy lásd, igazad volt-e:)
+
 Hibát fog kiírni mivel az idézőjel/aposztróf
 nincs bezárva.
 '''
